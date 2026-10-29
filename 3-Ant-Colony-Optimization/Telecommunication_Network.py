@@ -1,5 +1,8 @@
 import random
 
+print("Natali Pawar")
+print("1WN24CS169")
+
 # Network: nodes and link costs
 graph = {
     'A': {'B': 2, 'C': 4},

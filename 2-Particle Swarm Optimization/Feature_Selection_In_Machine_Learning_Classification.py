@@ -5,6 +5,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
 
+print("Natali Pawar")
+print("1WN24CS169")
+
 # Load dataset
 data = load_breast_cancer()
 X, y = data.data, data.target

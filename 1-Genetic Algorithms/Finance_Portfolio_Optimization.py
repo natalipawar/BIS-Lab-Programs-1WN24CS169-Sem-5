@@ -2,6 +2,9 @@ import numpy as np
 
 np.random.seed(42)
 
+print("Natali Pawar")
+print("1WN24CS169")
+
 # Illustrative monthly returns of 4 stocks
 returns = np.array([
     [0.04, 0.02, 0.05, 0.01],
